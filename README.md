@@ -5,4 +5,11 @@ Investigation of Edinburgh JustEat Cycles open data, specifically during Covid-1
 # Installations
 Python 3.\*. Also require Pyproj package.
 
-Please cite if using any of the code.
+# Project Motivation
+Look at trends in bicycle data in the city of Edinburgh resulting from the Covid-19 lockdown. 
+Have people been biking more or less during the lockdown?
+Can we see a reduction in commuting with the public bikes?
+Can we see which kinds of people are generally still commuting on the bikes?
+
+# File descriptions
+
